@@ -12,7 +12,7 @@ Este repositorio contiene el análisis y la visualización de datos de búsqueda
 * **LINK:** https://app.powerbi.com/view?r=eyJrIjoiODg4Mjg1NDgtNTg1OS00NWQ3LWE3NzktMTc1MTc2MGQ3YWRiIiwidCI6IjAzZTFiMjI2LTU3ODktNGE5Ny05MGY2LTQ0YTQ0MjQxYmE2ZCIsImMiOjR9
 
 **Ver Notebook en HTML:** Enlace al notebook en formato HTML para una consulta fácil.
-* **LINK:** https://github.com/CNicolas1996/Analisis_busquedas_medicas/blob/master/procesamiento.html
+* **LINK:** https://github.com/CNicolas1996/Analisis_busquedas_medicas/blob/master/procesamiento.ipynb
 **README.md:** Descripción del proyecto, instrucciones de uso y enlaces relevantes.
 
 ### **Instrucciones para Uso**
